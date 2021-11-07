@@ -1,4 +1,4 @@
-# A instrumatation tool for http request
+# A instrumatation tool for http request written by JoeYang
 
 --
 
@@ -9,9 +9,11 @@ Build linux version
 `cd http-get-tool; env GOOS=linux GOARCH=amd64 go build .`
 
 Build darwain version
+
 `cd http-get-tool; go build .`
 
 Build windows version
+
 `cd http-get-tool; env GOOS=windwos GOARCH=amd64 go build .`
 
 ```
