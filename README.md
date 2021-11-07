@@ -1,4 +1,4 @@
-# A instrumatation tool for http request written by JoeYang
+# A instrumatation tool for http request which is running in parallel written by JoeYang
 
 --
 
