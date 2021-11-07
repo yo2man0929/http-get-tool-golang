@@ -6,18 +6,18 @@
 
 Build linux version
 
-`cd http-get-tool; env GOOS=linux GOARCH=amd64 go build .`
+`cd http-get-tool; env GOOS=linux GOARCH=amd64 go build . `
 
 Build darwain version
 
-`cd http-get-tool; go build .`
+`cd http-get-tool; go build . `
 
 Build windows version
 
-`cd http-get-tool; env GOOS=windwos GOARCH=amd64 go build .`
+`cd http-get-tool; env GOOS=windwos GOARCH=amd64 go build . `
 
 ```
-./http-get-tool -h                                                                                                                     (gke_devops-mgmt-330303_asia-east1_devops-mgmt/default)
+./http-get-tool -h
 
 Get Help infomation
 Eg. http-get-tool -h
